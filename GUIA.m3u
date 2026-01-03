@@ -64,13 +64,14 @@ https://5ca3e84a76d30.streamlock.net/tv43/videotv43/playlist.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-id="Canal.5.(XHPNH).mx" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="TELEVISA", Canal 5 HD
 
 #EXTINF:-1 tvg-chno="5" tvg-id="CANAL 5.mx" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="TELEVISA" , Canal 5 MX
-
-#EXTINF:-1 tvg-chno="5" tvg-id="Canal.5.(XHPNH).mx" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="TELEVISA", Canal 5 FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c630b9d02c9eee970976e33e9d98ca16:6517788f3f04875bc83f34710b1d87e4
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/ffwkol9rr3/out/v1/c5f712f414b64736ba9cb11e9d3cd554/cenc-sd.mpd
+
+#EXTINF:-1 tvg-chno="5" tvg-id="Canal.5.(XHPNH).mx" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="TELEVISA", Canal 5 FHD
+
 
 #EXTINF:-1 tvg-chno="6" tvg-id="I490.91505.schedulesdirect.org" tvg-name="MULTIMEDIOS TV HD" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="TV Multimedios",Multimedios
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6405 
@@ -310,6 +311,11 @@ https://dish.akamaized.net/Content/DASH/Live/channel(cartoonnetworks)/variant.mp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=027e637afed7db11853ff1a19cc8e4db:608f91f05536f5a6c93e70cdd95aba5c
 https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(DISNEY_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-chno="18.1" tvg-id="I230.19234.schedulesdirect.org" tvg-name="" tvg-logo="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Disney_Channel_2019.svg/revision/latest/scale-to-width-down/78?cb=20200126030048&path-prefix=es" group-title="Infantil PREMIUM",Disney Channel MX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f047ea1abdca6f03117454c4de0b6d5b:b038c8c8f114c568956d428e80ae38d7
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/DISNEYCHANNELHD/default.mpd
 
 #EXTINF:-1 tvg-chno="18.1" tvg-id="I230.19234.schedulesdirect.org" tvg-name="" tvg-logo="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Disney_Channel_2019.svg/revision/latest/scale-to-width-down/78?cb=20200126030048&path-prefix=es" group-title="Infantil PREMIUM",Disney Channel Latinoamerica
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -659,6 +665,8 @@ http://198.204.231.170:46201/stream/univisontelemundo/univisioneast/master.m3u8
 
 #EXTINF:-1 tvg-chno="24.1" tvg-id="" tvg-name="" tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="UNIVISION", Univision Network 
 https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/unieast/unieast.isml/hls/unieast.m3u8?0GKUSH_R4IN&DONTSTEAL
+
+
 
 #EXTINF:-1 tvg-chno="24.2" tvg-id="" tvg-name="" tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="UNIVISION", Univision West
 http://198.204.231.170:46201/stream/univisontelemundo/univisionwest/master.m3u8
@@ -1291,6 +1299,9 @@ http://4.59.210.197:8815/udp/127.0.0.1:6009?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 tvg-chno="37.4" tvg-id="" tvg-name="" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58780_dark_360w_270h.png" group-title="USA LOCAL🇺🇸" , CNBC
 
 #EXTINF:-1 tvg-chno="37.5" tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/32635/s28708_ll_h15_ac.png" group-title="USA LOCAL🇺🇸",US - ABC Chicago
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://gg.poocloud.in/ABC/index.m3u8
 
 #EXTINF:-1 tvg-chno="37.5" tvg-name="US - ABC Chicago" tvg-logo="https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png" group-title="USA LOCAL🇺🇸",WABC-TV ABC 7 (New York NY)
 
@@ -1520,7 +1531,10 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTINF:-1 tvg-chno="39.11"  tvg-id="ES33000025N" tvg-name="ES33000025N" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000025N_20250715T004330SQUARE.png"  group-title="Crimen y Misterio",Crimen Historia
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W]&AV_HEIGHT=[ADS.H]&AV_APPNAME=[ADS.APP_NAME]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_CCPA=[ADS.US_PRIVACY]&AV_GDPR=[ADS.GDPR]&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_URL=&AV_CONTENT_TITLE=&AV_CONTENT_EPISODE=&AV_CONTENT_SERIES=&AV_CONTENT_SEASON=&AV_CONTENT_KEYWORDS=&AV_CONTENT_NETWORK=&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_LENGTH=&AV_CONTENT_RATING=R&AV_VAUTH=[ADS.VAUTH]&AV_DNT=[ADS.DNT]&Content_Id=[ADS.ADS_CONTENTID]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_OSVERS=[ADS.DEVICE_OSV]&AVS_SSAIID=67cede3d89bc4bd6f70ac3cd&AV_CONTENT_LANGUAGE=sp&AV_CONTENT_GENERE=Entertainment&AV_CONTENT_CAT=IAB1&AV_CONTENT_RATING=TV-G&AV_CLIENT_SECTION=crimenhistoria_lovetv&content_channel_name=Crimen%20%26%20Historia&content_livestream=1&ads.vidaa_ads_param=1190602996&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=7991
 
-#EXTINF:-1 tvg-chno="39.12" tvg-id="" tvg-logo="https://preview-amagicloud-castalia-automation-castalia.cloudport.amagi.tv/Images/S3/lgartwork/Logo.png" group-title="Crimen y Misterio",618 Crimen ZDF
+#EXTINF:-1 tvg-chno="39.12" tvg-id="" tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/LKuPgvzA6aJZm8FXDbYKgnJn6tpy2CDcR92ejWO3DV8.jpg" group-title="Crimen y Misterio", Delito
+https://amg27876-amg27876c2-amgplt0209.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg27876-amg27876c2-amgplt0209/63571d20-e8bd-11f0-be99-4eaceb3d8291/36/1920x1080_4300000/index.m3u8
+
+#EXTINF:-1 tvg-chno="39.13" tvg-id="" tvg-logo="https://preview-amagicloud-castalia-automation-castalia.cloudport.amagi.tv/Images/S3/lgartwork/Logo.png" group-title="Crimen y Misterio",618 Crimen ZDF
 https://amg17098-castalia-amg17098c1-lg-mx-9880.playouts.now.amagi.tv/ts-us-e2-n1/playlist/amg17098-castalia-zdf-lgmx/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
 
@@ -1557,19 +1571,20 @@ https://d3s7x6kmqcnb6b.cloudfront.net/hls/4B64PCQ/47ACBB024F87/m.m3u8
 https://d20xuwbyc4yoag.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-CINDIE/387.m3u8
 
 
-#EXTINF:-1 tvg-chno="60" channel-id="" tvg-name="Runtime Thriller-Terror" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Thriller-Terror.png"  group-title="Cine Runtime 🇪🇸" tvg-shift="-1", Runtime Thriller-Terror 🇪🇸
+
+#EXTINF:-1 tvg-chno="60" channel-id="" tvg-name="Runtime Thriller-Terror" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Thriller-Terror.png"  group-title="Cine Runtime 🇪🇸" tvg-shift="", Runtime Thriller-Terror 🇪🇸
 https://run-th-es.otteravision.com/run/th_es/th_es.m3u8
-#EXTINF:-1 tvg-chno="60.1" channel-id="" tvg-name="Runtime Crimen"  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Crimen.png" group-title="Cine Runtime 🇪🇸" tvg-shift="-1", Runtime Crimen 🇪🇸
+#EXTINF:-1 tvg-chno="60.1" channel-id="" tvg-name="Runtime Crimen"  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Crimen.png" group-title="Cine Runtime 🇪🇸" tvg-shift="", Runtime Crimen 🇪🇸
 https://run-cr-es.otteravision.com/run/cr_es/cr_es.m3u8
-#EXTINF:-1 tvg-chno="60.3" channel-id="" tvg-name="Runtime Clásicos" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/RunTime%20Cl%C3%A1sicos.png"  group-title="Cine Runtime 🇪🇸" tvg-shift="-1", RunTime Clásicos 🇪🇸
+#EXTINF:-1 tvg-chno="60.3" channel-id="" tvg-name="Runtime Clásicos" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/RunTime%20Cl%C3%A1sicos.png"  group-title="Cine Runtime 🇪🇸" tvg-shift="", RunTime Clásicos 🇪🇸
 https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
-#EXTINF:-1 tvg-chno="60.4" tvg-name="Runtime Cine y Series" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Cine%20y%20Series.png"  group-title="Cine Runtime 🇪🇸" tvg-shift="-1", Runtime Cine y Series 🇪🇸
+#EXTINF:-1 tvg-chno="60.4" tvg-name="Runtime Cine y Series" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Cine%20y%20Series.png"  group-title="Cine Runtime 🇪🇸" tvg-shift="", Runtime Cine y Series 🇪🇸
 https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8
-#EXTINF:-1 tvg-chno="60.5" channel-id="" tvg-name="Runtime Acción" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Acci%C3%B3n.png"  group-title="Cine Runtime 🇪🇸" tvg-shift="-1", Runtime Acción 🇪🇸
+#EXTINF:-1 tvg-chno="60.5" channel-id="" tvg-name="Runtime Acción" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Acci%C3%B3n.png"  group-title="Cine Runtime 🇪🇸" tvg-shift="", Runtime Acción 🇪🇸
 https://run-ra-es.otteravision.com/run/ra_es/ra_es.m3u8
-#EXTINF:-1 tvg-chno="60.6" channel-id="" tvg-name="Runtime Comedia" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Comedia.png"  group-title="Cine Runtime 🇪🇸" tvg-shift="-1", Runtime Comedia 🇪🇸
+#EXTINF:-1 tvg-chno="60.6" channel-id="" tvg-name="Runtime Comedia" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Comedia.png"  group-title="Cine Runtime 🇪🇸" tvg-shift="", Runtime Comedia 🇪🇸
 https://run-rc-es.otteravision.com/run/rc_es/rc_es.m3u8
-#EXTINF:-1 tvg-chno="60.7" channel-id="" tvg-name="Runtime Romance" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Romance.png"  group-title="Cine Runtime 🇪🇸" tvg-shift="-1", Runtime Romance 🇪🇸
+#EXTINF:-1 tvg-chno="60.7" channel-id="" tvg-name="Runtime Romance" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Romance.png"  group-title="Cine Runtime 🇪🇸" tvg-shift="", Runtime Romance 🇪🇸
 https://run-rr-es.otteravision.com/run/rr_es/rr_es.m3u8
 #EXTINF:-1 tvg-chno="60.8" channel-id="" tvg-name="RUNTIME TRASH" tvg-logo="https://www.audiovisual451.com/wp-content/uploads/2023/02/Runtime-Trash-1.jpg"  group-title="Cine Runtime 🇪🇸", RUNTIME TRASH 🇪🇸
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4647
@@ -1737,8 +1752,8 @@ https://amg00658-amg00658c8-canelatv-international-7227.playouts.now.amagi.tv/pl
 #EXTINF:-1 tvg-chno="65.2" tvg-id="USBA3800001E0" tvg-name="USBA3800001E0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800001E0_20250325T020215SQUARE.png" group-title="Cinema"  , Cine Romántico
 https://jmp2.uk/stvp-USBA3800001E0
 
-#EXTINF:-1 tvg-chno="65.3" channel-id="todo-cine" group-title="Cinema"  tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA950/0-16x9.jpg?width=160&updatedTime=0&dt=Web"  , Todo Cine
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
+#EXTINF:-1 tvg-chno="65.3" channel-id="b015fcbafb496320954672321e746f8a" tvg-id="b015fcbafb496320954672321e746f8a" tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA950/0-16x9.jpg?width=160&updatedTime=0&dt=Web"  , Todo Cine
+https://aka-live1050.delivery.roku.com/fafd2a70-601b-4034-bc12-c9f8498a619c/t2-origin/out/v1/live.m3u8
 
 #EXTINF:-1 tvg-chno="65.4" tvg-id="clasicos-0" tvg-name="clasicos-0" tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA875/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Cinema" ,  Clásicos
 https://amg00658-amg00658c9-canelatv-international-7219.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clasicosuslt-canelatvinternational/cb7c3e167b746f8c9cc83567d4f340aad30530805d63d1343aa050c47694155c87edf7c9ea1abe3a7eff62812b53310d0c78ce07de6c19a08724fc0e733f070afe88b37bc7991919d581512c2eb86a5657fa0505926359238db95458cc7d927c0618e7463c0663dded58ad7742b3d948de2976c3b2dc6539635a4d8b0808b6f35cabaee34043da69f3ac1d49c32f58ee844bcbc94dea80d70d9c458e22f5179598d5b1ee41c2c6fe20ed08f031364d3071ebe413f1e77ceca5f0032c8f4e38541743e7a08a8c3f56e9495650f4c0deac5aef01c79f2482796dd16afb4b8a24f808c068f7bb20cacfb2dc302953c2ed7a4376edb2fac7915637b46289e483997778cdf54d2b45c8208d7a7369dda99c45dc8e4d92b525c8b13c1b68949444cecbb1d1b6eafd20f42cccc6cb8c24524b116068e47383c01ab146d97dbec71024634145a39d40c581dc2c54082d839304bf7978b5d69ff1bb6459e44141368205da54157ccd460f16847da3e3560688361aba3728f55c39853097d245f6a6d5e00a3afbcad170c3059eddf5416563d30f116140d5df29474c4f72a2960c6f1e58b388604ea89b1a270ffee3c5bee15e3d1530145376eba88722d2e6c4589962bcfaa36f27306ee25b70d50aa071a064ba3fdea91b7d86076e00e3bf365e5553b5c1a598bd26ab2e8552dcd5f435233a1636f363456e59dab88956ea2b0b504e1dd15f2a13e6476d4be4c39dbed998389ac724b82e38453795be4708497576600194df3a870fb2c34ce9ca8a7ac5fd88144a9d73f25540d080ae199287b6ce410b9fbd445936c7a140eb476d96479a7bf2971abf9d5a1c15304c49b8ff72f64dbcd995df6bd76c9a460d7ae56fa8de8497d3755df39e5a39515d03f71e958493afdeaa0777f686c033cf631850b3c9991a20/46/1920x1080_6423560/index.m3u8
@@ -2173,6 +2188,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/PDX/clients/dash/enc/ikqumnhhew/out/v1/1f50a
 https://ottb.live.cf.ww.aiv-cdn.net/PDX/clients/dash/enc/9lvpst0mpb/out/v1/ba33b946c96e4a60886e2d91156398cd/cenc.mpd?@iprtlk
 
 
+
 #EXTINF:-1 tvg-chno="100" tvg-id="I464.75176.schedulesdirect.org" tvg-name="464 TUDN" tvg-logo="https://i.imgur.com/R9FWr9u.png" group-title="⚽FUTBOL LIGA MX⚽"  ,TUDN 🇺🇸
 https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8?0GKUSH_R4IN&DONTSTEAL
 
@@ -2261,13 +2277,13 @@ http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 https://tkx.mp.lura.live/rest/v2/mcp/video/univision-unimas?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n
 
 #EXTINF:-1 tvg-chno="98.3" tvg-id="I301.25595.schedulesdirect.org" tvg-name=""  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQURLr2yR8INhIWKwNllNuyQqZUcZ9ziW_2fA&usqp=CAU" group-title="⚽FUTBOL LIGA MX⚽" ,ESPN Deportes 🇺🇸 
-http://kstv.us:8080/live/Babeboi11/9785992589/47105.ts
+http://fastream.xyz:8080/juan18/83e45w87w/23624
 
 #EXTINF:-1 tvg-chno="97.1" tvg-id="I466.71914.schedulesdirect.org" tvg-name="ESPN Deportes"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQURLr2yR8INhIWKwNllNuyQqZUcZ9ziW_2fA&usqp=CAU" group-title="⚽FUTBOL LIGA MX⚽" ,ESPN Deportes 🇺🇸 OP2
 
 
 #EXTINF:-1 tvg-chno="98.2" tvg-id="I465.72189.schedulesdirect.org" tvg-name="Fox Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Fox_Deportes_2021.svg/revision/latest/scale-to-width-down/300?cb=20210601130410" group-title="⚽FUTBOL LIGA MX⚽" , Fox Deportes
-http://kstv.us:8080/live/Babeboi11/9785992589/23316.ts
+http://fastream.xyz:8080/juan18/83e45w87w/24030
 
 #EXTINF:-1 tvg-chno="97.4" tvg-id="I289.110964.schedulesdirect.org" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="⚽FUTBOL LIGA MX⚽",ESPN 🇲🇽 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2451,7 +2467,10 @@ http://fastream.xyz:8080/juan18/83e45w87w/473
 http://fastream.xyz:8080/juan18/83e45w87w/468
 
 #EXTINF:-1 tvg-chno="92.4" tvg-id="DSPORTS Fight" tvg-name="" tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1615.png" group-title="Deportes SUDAMERICA" , DSPORTS Fight
-http://fastream.xyz:8080/juan18/83e45w87w/20350
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
+
 
 
 #EXTINF:-1 tvg-chno="92" tvg-id="TYC SPORTS.ar" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/320px-TyC_Sports_logo.svg.png" group-title="Deportes SUDAMERICA" , TyC Sports w
@@ -2532,6 +2551,16 @@ https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-66ccae1a78822c7edc4b6df1.m3u8
 #EXTINF:-1 tvg-chno="70" tvg-id="400000106" tvg-logo="https://canvas-lb.tubitv.com/opts/NOj5lxEUQE5QQA==/a2adde61-ad0b-49bd-bf32-ec660546a380/CHgQeDoFMS4xLjZAAQ==" group-title="ARTES MARCIALES MMA 🥋",UFC tubi
 https://live-manifest.production-public.tubi.io/live/dd6d627f-f0f8-48bb-b627-7f7c4fceec37/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="70.1" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/Ultimate_Fighting_Championship.svg/revision/latest?cb=20230429023414" group-title="ARTES MARCIALES MMA 🥋" ,  PPV UFC🥋 🚫24/7
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://gg.poocloud.in/ufc/index.m3u8
+
+#EXTINF:-1 tvg-chno="70.1" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Oktagon_logo.png" group-title="ARTES MARCIALES MMA 🥋" ,  PPV OKTAGON🥋 🚫24/7
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://gg.poocloud.in/oktagon-en/index.m3u8
+
 #EXTINF:-1 tvg-chno="70.1" tvg-id="StarzPlay Sports.ae" tvg-logo="https://iili.io/2MEFfFj.png" group-title="ARTES MARCIALES MMA 🥋" ,Starzplay Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13
@@ -2580,10 +2609,11 @@ https://liveua.score806.cc/us_wwe/index.m3u8
 #EXTINF:-1 tvg-chno="70.10" tvg-id="6660b636cb3ea10008429c6a" tvg-logo="https://images.pluto.tv/channels/6660b636cb3ea10008429c6a/colorLogoPNG.png" group-title="ARTES MARCIALES MMA 🥋",SFT Combat 🇧🇷🇺🇸
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6660b636cb3ea10008429c6a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&servertSideAds=false&&deviceMake=github.com/inspirationlinks&deviceDNT=1
 
-#EXTINF:-1 tvg-chno="70.11" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Boxing-2.png" group-title="BOX 🥊",  PPV🥊1
+#EXTINF:-1 tvg-chno="70.11" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/DAZN_PPV_II.png/revision/latest?cb=20240911135517" group-title="BOX 🥊",  PPV🥊 🚫24/7
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://gg.poocloud.in/daznboxing/index.m3u8
 
-#EXTINF:-1 tvg-chno="70.11" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Boxing-2.png" group-title="BOX 🥊" ,  PPV🥊2
-https://a1xs.vip/ppv2
 
 #EXTINF:-1 tvg-chno="70.11" tvg-id="" tvg-logo="https://i.ibb.co.com/n6RzX8L/daznmatchroom.png" group-title="BOX 🥊" , matchroom
 
@@ -2639,7 +2669,10 @@ https://live-manifest.production-public.tubi.io/live/2a18fa03-db06-4f39-96c7-175
 #EXTINF:-1 tvg-chno="70.20" tvg-id="" tvg-name="NFL Network" group-title="NFL🏈" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45399_dark_360w_270h.png",NFL Network
 
 #EXTINF:-1 tvg-chno="70.20" tvg-id="" tvg-name="NFL Network" group-title="NFL🏈" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45399_dark_360w_270h.png",NFL Network
-https://7pal.short.gy/nflnw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyPYisdMY6FKYSoL0-SG5N-Q/.m3u8
 
 #EXTINF:-1 tvg-chno="70.21" tvg-id="" tvg-name="NFL Channel" group-title="NFL🏈" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45399_dark_360w_270h.png",NFL Channel 🏈
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2653,6 +2686,10 @@ https://wurllg.global.transmit.live/hls/689629d4e139235851c80caf/v1/lg_nflchanne
 https://live-manifest.production-public.tubi.io/live/222becf3-ff56-40cd-bca5-fbbafebe8b0d/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="70.22" tvg-id="" tvg-name="NFL.RedZone.HD.us2" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/65025/s65025_ll_h9_aa.png" group-title="NFL🏈",NFL Redzone
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyIjuPSfdEtru4SRomrzH_7I/.m3u8
 
 #EXTINF:-1 tvg-chno="70.22" tvg-id="I211.65025.schedulesdirect.org" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/65025/s65025_ll_h9_aa.png" group-title="NFL🏈", NFL Redzone
 
@@ -2665,6 +2702,12 @@ https://7pal.short.gy/espnus
 
 #EXTINF:-1 tvg-chno="71" tvg-id="ESPN.HD.us2" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/32645/s32645_ll_h15_ab.png" group-title="🇺🇸 USA Sports 🇺🇸", ESPN US 
 https://a1xs.vip/40000011
+
+#EXTINF:-1 tvg-chno="71" tvg-id="ESPN.HD.us2" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/32645/s32645_ll_h15_ab.png" group-title="🇺🇸 USA Sports 🇺🇸", ESPN US 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyKtorLuDNgNGJLt_6J9bagE/.m3u8
 
 #EXTINF:-1 tvg-chno="71.1" tvg-id="I209.12444.schedulesdirect.org" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/45507/s45507_ll_h15_aa.png" group-title="🇺🇸 USA Sports 🇺🇸",ESPN 2 US 
 https://a1xs.vip/40000012
@@ -2752,6 +2795,10 @@ http://fl7.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 #EXTINF:-1 tvg-chno="71.14" tvg-id="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/32281/s32281_ll_h15_ad.png" group-title="🏀NBA🏀", NBATV
 
 #EXTINF:-1 tvg-chno="71.14" tvg-id=""  tvg-logo="https://images.indihometv.com/logo_nba_ver1.png" group-title="🏀NBA🏀"  tvg-shift="-6", NBA TV [US]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyMTBZ3g-3oL3_2Yqc2UMEuI/.m3u8
 
 #EXTINF:-1 tvg-chno="71.14" tvg-id="99951383" tvg-name="The NBA Channel" tvg-logo="https://image.xumo.com/v1/channels/channel/99951383/168x168.png?type=color_onBlack" group-title="🏀NBA🏀",The NBA Channel
 https://dbrb49pjoymg4.cloudfront.net/10001/99951383/hls/playlist.m3u8?ads.xumo_channelId=99951383&ads._fw_ifa_type=&ads._fw_did=a24b30ce-be09-4b48-8bdb-b6954362da95&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=NBAFASTChannel&ads.csid=xumo_web_NBAFASTChannel_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4185&ads.xumo_contentName=NBAFASTChannel&ads.xumo_providerId=4185&ads.xumo_providerName=NBAFASTChannel&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951383&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
@@ -2773,11 +2820,30 @@ https://d1jzu95oc8fgt3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-chno="71.16"  tvg-id="613765" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/62081/s62081_ll_h15_ab.png" group-title="⚾MLB⚾", MLB Network
 https://live-manifest.production-public.tubi.io/live/94ef022e-59ad-486a-81bb-f817613e3df1/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="71.16"  tvg-id="613765" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/62081/s62081_ll_h15_ab.png" group-title="⚾MLB⚾", MLB TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyDzDyUTZLQ2k4HO44SlpIZE/.m3u8
+
 #EXTINF:-1 tvg-chno="71.16" tvg-name="MLB 🇺🇸" tvg-id="5e66968a70f34c0007d050be" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-network-us.png" group-title="​⚾MLB⚾",MLB 🇺🇸
 https://d1yqxv6gx128ca.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mmpgjr4zitcp0/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="71.16"  tvg-id="I631.30017.zap2it.com" tvg-logo="https://i.postimg.cc/XY9fCVTW/yes.jpg" group-title="⚾MLB⚾",Yes Network 
 https://7pal.short.gy/yesnw
+
+#EXTINF:-1 tvg-chno="71.17" tvg-id="tv4-tennis-se" tvg-logo="https://epg.iptvx.one/picons/tv4-tennis-se.png" group-title="Tennis Channel 🎾", TV4 Tennis [SE]
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"lXsyUI/srxp/hC6dibx1Nw","kid":"vTKtYI6MNTaNuwrL+pTY4A"}],"type":"temporary"}
+https://live.streaming.a2d.tv/asset/20465727.isml/dash.mpd
+
+#EXTINF:-1  tvg-chno="71.18" tvg-id="I217.33395.zap2it.com" tvg-logo="https://i.postimg.cc/447pY40Q/tenc.jpg" group-title="Tennis Channel 🎾",Tennis Channel HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
 
 #EXTINF:-1 tvg-chno="71.18" tvg-id="I217.33395.zap2it.com" tvg-logo="https://i.postimg.cc/447pY40Q/tenc.jpg" group-title="Tennis Channel 🎾",Tennis Channel 
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
@@ -2831,6 +2897,8 @@ https://amg00218-wptenterprises-amg00218c2-sportstribal-emea-1901.playouts.now.a
 
 #EXTINF:-1 tvg-chno="71.25" tvg-id="6663176e6303503e39621403" tvg-name="6663176e6303503e39621403" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/1d91fc37-a75c-4490-8739-f9c79a8f9432" group-title="Poker" , Poker Night In America
 https://linear-1068.frequency.stream/dist/freelivesports/1068/hls/master/playlist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-chno="72" tvg-name="FR | beIN SPORTS 1" group-title="Sports France" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" ,BEIN SPORTS 1 FRA
@@ -2923,6 +2991,18 @@ https://liveua.score806.cc/pt_sporttv4/index.m3u8
 https://liveua.score806.cc/pt_sporttv5/index.m3u8
 
 
+#EXTINF:-1 tvg-chno="74.1"  tvg-id="" tvg-name="" group-title="SPORTS GERMANY" tvg-logo="", bluezoom de
+https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-dash/bluezoomde.mpd
+
+#EXTINF:-1 tvg-chno="74.2"  tvg-id="sportdigital-fussball" tvg-name="" group-title="SPORTS GERMANY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sport-Digital.svg/1200px-Sport-Digital.svg.png", Sportdigital Fussball HD
+https://a1xs.vip/120001
+
+#EXTINF:-1 tvg-chno="74.2" tvg-name="DE | SPORTDIGITAL FUSSBALL" group-title="SPORTS GERMANY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sport-Digital.svg/1200px-Sport-Digital.svg.png", DE | SPORTDIGITAL FUSSBALL 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://ottb.live.cf.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
 
 #EXTINF:-1 tvg-chno="74.3" tvg-id="SAT.1.de" tvg-logo="https://i.ibb.co.com/k9cBqnw/sat1.png" group-title="SPORTS GERMANY", Sat.1 🇩🇪
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2939,10 +3019,7 @@ https://dhernglcdl9xo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://ac-003.live.p7s1video.net/4a37da02/t_003/dazn-rise-hd/cenc-default.mpd
 
 #EXTINF:-1 tvg-chno="74.4" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjtfaW_DcrYZZ-jPGAgMRuAjDJra2OUix8WQ&usqp=CAU" group-title="SPORTS GERMANY" , DAZN FAST+ 🇩🇪
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
+
 
 #EXTINF:-1 tvg-chno="74.5" tvg-name="DAZN FAST.de" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjtfaW_DcrYZZ-jPGAgMRuAjDJra2OUix8WQ&usqp=CAU" group-title="SPORTS GERMANY" , DAZN FAST 🇩🇪
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2985,14 +3062,34 @@ https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd
 #KODIPROP:inputstream.adaptive.license_key=ba811cbf6c7afe35396453271437e013:b55a91719f41754015edb61f5cd2468c
 https://ac-003.live.p7s1video.net/c8f927b4/t_003/orf-sport-plus-at/cenc-default.mpd
 
-#EXTINF:-1 tvg-chno="74.11" tvg-id="DE | Eurosport 1" tvg-logo="https://i.ibb.co.com/Qk3G5k3/eurosp1.png" group-title="SPORTS GERMANY", DE | Eurosport 1
+#EXTINF:-1 tvg-chno="74.11" tvg-id="DE | Eurosport 1" tvg-logo="https://i.ibb.co.com/Qk3G5k3/eurosp1.png" group-title="SPORTS GERMANY"  tvg-shift="-3", DE | Eurosport 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mpd
 
+#EXTINF:-1 tvg-chno="74.12"  tvg-id="sky-sport-bundesliga-de" tvg-logo="https://epg.iptvx.one/picons/sky-sport-bundesliga-de.png" group-title="SPORTS GERMANY" , Sky Sport Bundesliga [DE]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=67905848180231a8a51a6539670d6e8d:50cec07ba1ff5395e451ed2950d39fb2
+https://abe4mdzaaaaaaaampzanwc57oxzim.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/szmus1u1h0/out/v1/6d3245aa41e0455489ec87d3a144abea/cenc.mpd
+
+#EXTINF:-1 tvg-chno="74.13" tvg-id="sky-sport-pl-de" tvg-logo="https://epg.iptvx.one/picons/sky-sport-pl-de.png"  group-title="SPORTS GERMANY" , Sky Sport Premier League [DE]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
+https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd
+
+#EXTINF:-1 tvg-chno="74.14" tvg-id="sky-sport-top-event-de" tvg-logo="https://epg.iptvx.one/picons/sky-sport-top-event-de.png"  group-title="SPORTS GERMANY" , Sky Sport Top Event [DE]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=04e1aff27c2a13ad9aa9556501684743:2097e55038d3cee7d69e88f4069840d1
+https://otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jglxtfgzxa/out/v1/28a70425aec84b55bb9d29ccd5d53f45/cenc.mpd
+
+#EXTINF:-1 tvg-chno="74.15" tvg-id="sky-sport-mix-de" tvg-logo="https://epg.iptvx.one/picons/sky-sport-mix-de.png"  group-title="SPORTS GERMANY" , Sky Sport Mix [DE]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3c393a1661a7a0c306ed4b2d3f8c7b7e:74583ae652f0ed1bed5fc713f577fe1e
+https://otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/tjz3qplazr/out/v1/546e7eee67cd472fb34f53112df73144/cenc.mpd
+
+
 #EXTINF:-1 tvg-chno="75" tvg-name="DAZN LaLiga HD"  tvg-logo="https://bit.ly/3SpOwV9" group-title="DEPORTES ESPAÑA", DAZN LaLiga HD 🇪🇸
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=147097&extension=ts
-
 
 #EXTINF:-1 tvg-chno="75.5" tvg-name="Eurosport 1 1080"  group-title="DEPORTES ESPAÑA" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,Eurosport 1 1080
 http://92.118.251.84:8080/Eurosport1/index.m3u8
@@ -3235,11 +3332,6 @@ https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561402/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=f48a8131e05f4d6e84de19f086c781a6:fd28f2f966a906f4d4dcfd72ae90094e
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560502/index.mpd
 
-#EXTINF:-1 tvg-chno="81.2" tvg-id="tvplay-sports-plus" tvg-name="" tvg-logo="https://i.ibb.co/vZ3pSq8/go3sport2.png" group-title="SPORTS GO 🇱🇹" tvg-shift="", GO3 Sport 2
-http://de.online24.pm/play/6710/0E5BF0B5A9755BD/video.m3u8
-
-#EXTINF:-1 tvg-chno="81.3" tvg-id="tv3-sport-3" tvg-name="" tvg-logo="https://i.ibb.co/vZ3pSq8/go3sport2.png" group-title="SPORTS GO 🇱🇹" tvg-shift="", GO3 Sport 3
-http://de.online24.pm/play/6711/0E5BF0B5A9755BD/video.m3u8
 
 #EXTINF:-1 tvg-chno="81.4" tvg-id="setanta1-lt" tvg-name="" tvg-logo="https://i.ibb.co/hyShPmQ/setantasp1.png" group-title="SPORTS GO 🇱🇹" tvg-shift="", Setanta Sports 1 Lietuva
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3300,7 +3392,12 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 #EXTVLCOPT:http-origin=https://cignalplay.com
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 
-
+#EXTINF:-1 tvg-chno="82.1" tvg-id="" tvg-logo="" group-title="SPORTS ASIA", SpoTv Now
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+#EXTVLCOPT:http-referrer=https://www.mana2.my/
+https://slive.mana2.my/SpotvNow/index.mpd
 
 
 #EXTINF:-1 tvg-chno="82.2" tvg-id="701.unifi" tvg-logo="https://unifi.com.my/tv/sites/default/files/2023-02/unifisports-new.png" group-title="SPORTS ASIA", Unifi Sports 1
@@ -3484,20 +3581,6 @@ https://d15umi5iaezxgx.cloudfront.net/LA7D/DRM/DASH/Live.mpd
 https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8
 
 
-#EXTINF:-1 tvg-chno="87.1"  tvg-id="PSN1.mn" tvg-logo="https://www.psn.mn/img/PSN1.380a638f.png" group-title="SPORTs WEB", PSN 1 Sports 
-https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
-
-#EXTINF:-1 tvg-chno="87.2" tvg-id="PSN2.mn"  tvg-logo="https://www.psn.mn/img/PSN2.07a6f344.png" group-title="SPORTs WEB", PSN 2 Sports 
-https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
-
-#EXTINF:-1 tvg-chno="87.3" tvg-id="PSN3.mn"  tvg-logo="https://www.psn.mn/img/PSN3.95434e53.png" group-title="SPORTs WEB", PSN 3 Sports 
-
-
-#EXTINF:-1 tvg-chno="87.4" tvg-id="PSN4.mn"  tvg-logo="https://www.psn.mn/img/PSN4.ca979c65.png" group-title="SPORTs WEB", PSN 4 Sports 
-https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
-
-#EXTINF:-1 tvg-chno="87.5" tvg-id="PSN5.mn"  tvg-logo="https://www.psn.mn/img/PSN5.b3e98409.png" group-title="SPORTs WEB", PSN 5 Sports 
-https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
 
 
 #EXTINF:-1 tvg-chno="88.1" tvg-id="Arena.Sport.1.HD.sk" tvg-logo="https://i.ibb.co.com/h2bcqhS/arenasp1sk.png" group-title="ALL SPORTS", Arena Sport 1 
@@ -3627,7 +3710,6 @@ https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/one_1/live.livx?i
 #KODIPROP:inputstream.adaptive.license_key=6f09c99d572d9c6d4d616521ee785460:12893b12e80c3c5dbaf6b4994c8432c0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/one_2/live.livx?indexMode&amp;dvr=7200000
-
 
 
 
