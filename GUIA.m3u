@@ -104,8 +104,6 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81/master.m3u8
 https://dish.akamaized.net/Content/DASH/Live/channel(azteca7hd)/variant.mpd
 
 #EXTINF:-1 tvg-chno="7" tvg-id="I270.102406.schedulesdirect.org" tvg-name="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/1200px-Azteca_7_%282016_Blank%29.svg.png"  group-title="TV AZTECA", Azteca 7
-#https://d162h6qqsk8wvl.cloudfront.net/91890373-57e0-4162-92a9-f3244f50a35d/manifest.m3u8
-https://d162h6qqsk8wvl.cloudfront.net/9dd2f454-148b-43f2-8ad4-17f74d749895/manifest.m3u8
 
 
 #EXTINF:-1 tvg-chno="8" tvg-id="I5.104892.schedulesdirect.org" tvg-name=""  tvg-logo="https://i.imgur.com/TWk9gfd.png" group-title="TV AZTECA" ,A Más + 
@@ -701,15 +699,13 @@ https://stitcher.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u
 #EXTINF:-1 tvg-chno="24" tvg-id="Canal Univision (Costa Rica)" tvg-name="" tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="UNIVISION", Univisión (Latin America) 
 
 #EXTINF:-1 tvg-chno="24.1" tvg-id="" tvg-name="" tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="UNIVISION", Univision Network 
-#http://198.204.231.170:46201/stream/univisontelemundo/univisioneast/master.m3u8
-https://d162h6qqsk8wvl.cloudfront.net/cdd9a846-099d-4cec-88f1-ca083668759e/manifest.m3u8
+http://198.204.231.170:46201/stream/univisontelemundo/univisioneast/master.m3u8
 
 #EXTINF:-1 tvg-chno="24.1" tvg-id="" tvg-name="" tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="UNIVISION", Univision Network 
 https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/unieast/unieast.isml/hls/unieast.m3u8?0GKUSH_R4IN&DONTSTEAL
 
 #EXTINF:-1 tvg-chno="24.2" tvg-id="" tvg-name="" tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="UNIVISION", Univision West
-#http://198.204.231.170:46201/stream/univisontelemundo/univisionwest/master.m3u8
-https://d162h6qqsk8wvl.cloudfront.net/49d039ca-8cc0-45a5-99b8-06910f4008d8/manifest.m3u8
+http://198.204.231.170:46201/stream/univisontelemundo/univisionwest/master.m3u8
 
 #EXTINF:-1 tvg-chno="24.3" tvg-id="" tvg-name="" tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="UNIVISION", Univision West
 https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/uniwest/uniwest.isml/hls/uniwest.m3u8?0GKUSH_R4IN&DONTSTEAL
@@ -718,7 +714,7 @@ https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.co
 https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="24.7" tvg-id="UniMas.HD.(Pacific).us2" tvg-name="" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29058_dark_360w_270h.png" group-title="UNIVISION", UniMas West
-https://d162h6qqsk8wvl.cloudfront.net/088dcd2e-054c-4503-bf84-d17aff236da5/manifest.m3u8
+
 
 #EXTINF:-1 tvg-chno="24.7" tvg-id="UniMas.HD.(Pacific).us2" tvg-name="" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29058_dark_360w_270h.png" group-title="UNIVISION", UniMas West
 https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/umawest/umawest.isml/hls/umawest.m3u8?0GKUSH_R4IN&DONTSTEAL
@@ -733,13 +729,14 @@ https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.co
 https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/galawest/galawest.isml/hls/galawest.m3u8?0GKUSH_R4IN&DONTSTEAL
 
 #EXTINF:-1 tvg-chno="24.9" tvg-id="Galavision.Cable.Network.HD.(Pacific).us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/800px-Galavision_Logo_2013.svg.png" group-title="UNIVISION" , Galavision West
-https://d162h6qqsk8wvl.cloudfront.net/9d60e35b-4ed3-4382-9f83-d84b84ff6eb6/manifest.m3u8
+
 
 #EXTINF:-1 tvg-chno="24.10" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/800px-Galavision_Logo_2013.svg.png" group-title="UNIVISION" , Galavision
 https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8?0GKUSH_R4IN
 
 
 #EXTINF:-1 tvg-chno="25" tvg-id="Telemundo.Satellite.Feed.Pacific.us2" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/24521/s73245_ll_h15_ac.png" group-title="TELEMUNDO" , Telemundo West
+http://cors.tundracast.com:2000/https://streamer2.nexgen.bz/77-TELEMUNDO/mpegts
 
 #EXTINF:-1 tvg-chno="25" tvg-id="Telemundo.Satellite.Feed.us2" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/24521/s73245_ll_h15_ac.png" group-title="TELEMUNDO" , Telemundo EAST
 http://cord-cutter.net:8080/30550113/30550113/139149
@@ -748,6 +745,7 @@ http://cord-cutter.net:8080/30550113/30550113/139149
 http://cord-cutter.net:8080/30550113/30550113/120691
 
 #EXTINF:-1 tvg-chno="25.2" tvg-id="I406.77606.schedulesdirect.org" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/24521/s73245_ll_h15_ac.png" group-title="TELEMUNDO",Telemundo New York 
+http://cors.tundracast.com:2000/https://streamer2.nexgen.bz/77-TELEMUNDO/index.m3u8
 
 #EXTINF:-1 tvg-chno="25.3" tvg-id="I2.1.43328.schedulesdirect.org" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/54437/s73245_ll_h15_ac.png" group-title="TELEMUNDO" , Telemundo Puerto Rico
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
@@ -1590,9 +1588,6 @@ https://d3s7x6kmqcnb6b.cloudfront.net/hls/4B64PCQ/47ACBB024F87/m.m3u8
 https://d20xuwbyc4yoag.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-CINDIE/387.m3u8
 
 
-
-
-
 #EXTINF:-1 tvg-chno="60" channel-id="" tvg-name="Runtime Thriller-Terror" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Thriller-Terror.png"  group-title="Cine Runtime 🇪🇸" tvg-shift="", Runtime Thriller-Terror 🇪🇸
 https://run-th-es.otteravision.com/run/th_es/th_es.m3u8
 #EXTINF:-1 tvg-chno="60.1" channel-id="" tvg-name="Runtime Crimen"  tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Crimen.png" group-title="Cine Runtime 🇪🇸" tvg-shift="", Runtime Crimen 🇪🇸
@@ -2210,6 +2205,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/PDX/clients/dash/enc/ikqumnhhew/out/v1/1f50a
 https://ottb.live.cf.ww.aiv-cdn.net/PDX/clients/dash/enc/9lvpst0mpb/out/v1/ba33b946c96e4a60886e2d91156398cd/cenc.mpd?@iprtlk
 
 
+
 #EXTINF:-1 tvg-chno="100" tvg-id="I464.75176.schedulesdirect.org" tvg-name="464 TUDN" tvg-logo="https://i.imgur.com/R9FWr9u.png" group-title="⚽FUTBOL LIGA MX⚽"  ,TUDN 🇺🇸
 https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8?0GKUSH_R4IN&DONTSTEAL
 
@@ -2217,9 +2213,10 @@ https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.co
 https://tkx.mp.lura.live/rest/v2/mcp/video/adstkZj0NvKqzB6e?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n&0GKUSH_R4IN
 
 #EXTINF:-1 tvg-chno="100" tvg-id="I464.75176.schedulesdirect.org" tvg-name="464 TUDN" tvg-logo="https://i.picasion.com/pic92/f4d210f979677a34da7f2dca1aa67ca0.gif" group-title="⚽FUTBOL LIGA MX⚽" , TUDN 🇺🇸 HD
-https://d162h6qqsk8wvl.cloudfront.net/a9ee078c-9953-4ac1-b979-24091e460971/manifest.m3u8
+https://fl1.moveonjoy.com/TUDN/index.m3u8
 
 #EXTINF:-1 tvg-chno="100" tvg-id="I464.75176.schedulesdirect.org" tvg-name="464 TUDN" tvg-logo="https://i.imgur.com/R9FWr9u.png" group-title="⚽FUTBOL LIGA MX⚽"  ,TUDN 🇺🇸 OP2
+https://601.shadow-ran.online/tudn.m3u8
 
 #EXTINF:-1 tvg-chno="99.4"channel-id="samsung-USBD1700016X9" tvg-id="USBD1700016X9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700016X9_20230912T232525SQUARE.png_20230912232526.png"  group-title="⚽FUTBOL LIGA MX⚽" , Zona TUDN 🇺🇸 
 https://linear-357.frequency.stream/dist/vizio/357/hls/master/playlist.m3u8?ads.did=%7bADID%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.lmt=%7bLMT%7d&ads.ifa_type=%7bIFATYPE%7d&vizdartoken=eyJhdWQiOiIxNDkiLCJ3ZnBjaWQiOjQzNTg0MzY2ODB9
@@ -2233,6 +2230,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/1a5vdd4i
 
 #EXTINF:-1 tvg-chno="7" tvg-id="I270.102406.schedulesdirect.org" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/1200px-Azteca_7_%282016_Blank%29.svg.png"  group-title="⚽FUTBOL LIGA MX⚽", AZTECA 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81/master.m3u8
+
 #EXTINF:-1 tvg-chno="90" tvg-id=""  tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/04be54c79d1f55d0909e684f64f9fb57/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1696988819079_AI_Roku_260x147_Mono_DEPORTES_CB_Oct23.png" id="" group-title="⚽FUTBOL LIGA MX⚽" ,AZTECA DEPORTES 1
 https://mdstrm.com/live-stream-playlist/5ff464aaf89edc69bfe55de9.m3u8
 
@@ -2260,13 +2258,13 @@ https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 #EXTINF:-1 tvg-chno="98.7" tvg-id="Caliente TV.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Caliente_TV_Logo.png" group-title="⚽FUTBOL LIGA MX⚽" tvg-shift="", CALIENTE TV 
 
 #EXTINF:-1 tvg-chno="24.1" tvg-id="I692.11118.schedulesdirect.org" tvg-name="" tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="⚽FUTBOL LIGA MX⚽", Univision Network
-https://d162h6qqsk8wvl.cloudfront.net/49d039ca-8cc0-45a5-99b8-06910f4008d8/manifest.m3u8
+
 
 #EXTINF:-1 tvg-chno="24.4" tvg-id="I403.14762.schedulesdirect.org" tvg-name="" tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="⚽FUTBOL LIGA MX⚽", Univision West
 https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/uniwest/uniwest.isml/hls/uniwest.m3u8?0GKUSH_R4IN&DONTSTEAL
 
 #EXTINF:-1 tvg-chno="25.2" tvg-id="" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/24521/s73245_ll_h15_ac.png" group-title="⚽FUTBOL LIGA MX⚽",US - Telemundo Chicago
-http://cord-cutter.net:8080/30550113/30550113/120691
+http://cors.tundracast.com:2000/https://streamer2.nexgen.bz/77-TELEMUNDO/mpegts
 
 #EXTINF:-1 tvg-chno="25.2" tvg-id="Telemundo.Satellite.Feed.us2" tvg-name="" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/24521/s73245_ll_h15_ac.png" group-title="⚽FUTBOL LIGA MX⚽",US - Telemundo east
 http://cord-cutter.net:8080/30550113/30550113/139149
@@ -2649,7 +2647,15 @@ https://stitcher.pluto.tv/stitch/hls/channel/64805922536e0c0008a1a1e6/master.m3u
 #EXTINF:-1 tvg-chno="70.11" channel-id="pluto-64805922536e0c0008a1a1e6" tvg-id="64805922536e0c0008a1a1e6" tvg-logo="https://images.pluto.tv/channels/64805922536e0c0008a1a1e6/colorLogoPNG.png" group-title="BOX 🥊" , DAZN Combat (rakuten)
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 
-#EXTINF:-1 tvg-chno="70.11" tvg-id="match-boets" tvg-logo="https://i.ibb.co.com/FwcxRWP/matchfight.png" group-title="ARTES MARCIALES MMA 🥋", Матч! Боец
+#EXTINF:-1 tvg-chno="70.11" tvg-id="match-arena" tvg-logo="https://epg.iptvx.one/picons/match-arena.png" group-title="ARTES MARCIALES MMA 🥋", Матч! Арена
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9839b170b4fc384f243bffd8929b71a2:34cdd6f3e1bf6a9f9d54e9165abf8c09
+https://video.beeline.tv/live/d/channel512.isml/manifest-stb.mpd
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="match-boets" tvg-logo="https://epg.iptvx.one/picons/match-boec.png" group-title="ARTES MARCIALES MMA 🥋", Матч! Боец
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=660a37a91aa00b7e2e0bc7dca349b982:3593a4a2bfbd7d9585efff083b769cf5
+https://video.beeline.tv/live/d/channel377.isml/manifest-stb.mpd
 
 #EXTINF:-1 tvg-chno="70.11" tvg-id="São.Paulo/SP..Combate.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Canal-combate-logo.png/200px-Canal-combate-logo.png" group-title="ARTES MARCIALES MMA 🥋", COMBATE  🇧🇷
 
@@ -2691,8 +2697,10 @@ https://live-manifest.production-public.tubi.io/live/2a18fa03-db06-4f39-96c7-175
 
 
 #EXTINF:-1 tvg-chno="70.20" tvg-id="" tvg-name="NFL Network" group-title="NFL🏈" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45399_dark_360w_270h.png",NFL Network
+https://a1xs.vip/40000032
 
 #EXTINF:-1 tvg-chno="70.20" tvg-id="" tvg-name="NFL Network" group-title="NFL🏈" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45399_dark_360w_270h.png",NFL Network
+http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-chno="70.21" tvg-id="" tvg-name="NFL Channel" group-title="NFL🏈" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45399_dark_360w_270h.png",NFL Channel 🏈
 
