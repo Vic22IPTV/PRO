@@ -889,6 +889,7 @@ https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 
 
+
 #EXTINF:-1 tvg-chno="30" tvg-id="I30.96445.schedulesdirect.org" tvg-name="Animal PLanet Latinoamerica" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18649_dark_360w_270h.png" group-title="Documental" , Animal PLanet Latinoamerica
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1440,6 +1441,9 @@ https://dish.akamaized.net/Content/DASH/Live/channel(history2hd)/variant.mpd
 https://dish.akamaized.net/Content/DASH/Live/channel(investigationdiscoveryhd)/variant.mpd
 
 #EXTINF:-1 tvg-chno="39.1" tvg-id="I431.109896.schedulesdirect.org" tvg-name="Investigation Discovery (Mexico) (ID)"tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65342_dark_360w_270h.png"  group-title="Crimen y Misterio" , ID | HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
+https://mega.z5cable.com/bpk-tv/id_hd/default/index.mpd
 
 #EXTINF:-1 tvg-chno="39.1" tvg-id="Canal.Investigation.Discovery.(Chile).cl" tvg-name=""tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65342_dark_360w_270h.png"  group-title="Crimen y Misterio" , ID sur
 
@@ -1526,6 +1530,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=15068
 
 #EXTINF:-1 tvg-chno="58.7" tvg-id="" tvg-name="" tvg-logo="https://d1y2dphb29uhu6.cloudfront.net/c/433/images/cqYA0kmQKlUvEWe95h6O7g.png" group-title="💢FILMS 24/7💢",💢|➾Cindie TV
 https://d20xuwbyc4yoag.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-CINDIE/387.m3u8
+
 
 
 #EXTINF:-1 tvg-chno="60" channel-id="" tvg-name="Runtime Thriller-Terror" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Thriller-Terror.png"  group-title="Cine Runtime 🇪🇸" tvg-shift="", Runtime Thriller-Terror 🇪🇸
@@ -2009,6 +2014,9 @@ https://dish.akamaized.net/Content/DASH/Live/channel(cinecanal)/variant.mpd
 #EXTINF:-1 tvg-chno="69.1" tvg-id="Canal.Cinecanal.(Chile).cl" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png"  group-title="Cine PREMIUM🎦", Cinecanal HD
 
 #EXTINF:-1 tvg-chno="69.2" tvg-id="I482.73535.schedulesdirect.org" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Canal_Panico_HD.png/revision/latest?cb=20161218051240" group-title="Cine PREMIUM🎦", PANICO 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/panico_hd/default/index.mpd
 
 #EXTINF:-1 tvg-chno="69.3" tvg-id="Cine Sony" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cine_sony-mediano.png" group-title="Cine PREMIUM🎦" tvg-shift="", Cine Sony
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
@@ -2066,10 +2074,15 @@ https://live1009.delivery.roku.com/0f232fec-f2cc-45e0-8876-af34537103d4/t2-origi
 
 #EXTINF:-1 tvg-chno="69.8" tvg-id="Multicine atresplayer" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Multicine%20atresplayer.png" group-title="Cine PREMIUM🎦", Multicine atresplayer 1080
 
+
+#EXTINF:-1  tvg-chno="69.9" tvg-logo="" group-title="Cine PREMIUM🎦",, Cinema Platino HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/cinema_platino_hd/default/index.mpd
+
 #EXTINF:-1 tvg-chno="69.9" tvg-id="Clásicos atresplayer" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cl%C3%A1sicos%20atresplayer.png" group-title="Cine PREMIUM🎦", Clásicos atresplayer 1080
 
 #EXTINF:-1 tvg-chno="69.9"  tvg-id="ITBA33000238E" tvg-name="ITBA33000238E" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA33000238E_20251028T011515SQUARE.png" group-title="Cine PREMIUM🎦", Cinema italiano
-https://7f495636.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0NpbmVtYVNlZ3JldG9fSExT/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="69.10" tvg-id="BomCine.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/250px-Logo-bom.svg.png" group-title="Cine PREMIUM🎦",Bom Cine 
 
@@ -2197,11 +2210,9 @@ https://live-manifest.production-public.tubi.io/live/35557bb9-7c94-40ea-85f7-c94
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 #EXTINF:-1 tvg-chno="95" tvg-id="I346.123582.schedulesdirect.org" tvg-name="" tvg-logo="https://www.prensario.net/multimedios/imgs/50827_750.jpg" group-title="⚽FUTBOL LIGA MX⚽" , Fox Sports Premium
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
 
 
 #EXTINF:-1 tvg-chno="25.10" tvg-id="I410.14791.schedulesdirect.org" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/1280px-Universo_2017.svg.png"  group-title="⚽FUTBOL LIGA MX⚽", NBC Universo (East) 
@@ -2258,21 +2269,17 @@ https://dish.akamaized.net/Content/DASH/Live/channel(espn_extra)/manifest.mpd
 #EXTINF:-1 tvg-chno="96.2" tvg-id="I338.61704.schedulesdirect.org" tvg-name=""  tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41677_dark_360w_270h.png" group-title="⚽FUTBOL LIGA MX⚽",FOX Sports (Cono Norte México) 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
 
 #EXTINF:-1 tvg-chno="96.1" tvg-id="I341.71328.schedulesdirect.org" tvg-name=""  tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66365_dark_360w_270h.png" group-title="⚽FUTBOL LIGA MX⚽",Fox Sports 2 (MX) 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
 
 #EXTINF:-1 tvg-chno="95.3" tvg-id="Fox.Sports.3.(Cono.Norte).(FOXSP3).mx" tvg-name=""  tvg-logo="https://i.picasion.com/pic92/750f7e24fe0d3482e6c5b32048f66d6b.gif" group-title="⚽FUTBOL LIGA MX⚽",Fox Sports 3 (Cono Norte)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
 
 #EXTINF:-1 tvg-chno="93.3" tvg-id="I730.57580.schedulesdirect.org"  tvg-name="TVC Deportes" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s57580_dark_360w_270h.png" group-title="⚽FUTBOL LIGA MX⚽" ,TVC Deportes
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3675,8 +3682,6 @@ https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/one_1/live.livx?i
 #KODIPROP:inputstream.adaptive.license_key=6f09c99d572d9c6d4d616521ee785460:12893b12e80c3c5dbaf6b4994c8432c0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/one_2/live.livx?indexMode&amp;dvr=7200000
-
-
 
 
 
